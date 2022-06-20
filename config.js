@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    siteUrl: 'https://ampliFi-docs.cre8r.vip',
     gaTrackingId: null,
     trailingSlash: false,
   },
@@ -44,24 +44,24 @@ const config = {
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Hasura', link: 'https://hasura.io' }],
+    links: [{ text: 'AmpliFi', link: 'https://cre8r.vip' }],
     frontLine: false,
     ignoreIndex: true,
     title:
       "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
   },
   siteMetadata: {
-    title: 'Gatsby Gitbook Boilerplate | Hasura',
-    description: 'Documentation built with mdx. Powering hasura.io/learn ',
+    title: 'AmpliFi Docs | Incentivised KPI based DeFi Referral System',
+    description: 'Incentivised KPI based DeFi Referral System ',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
+    docsLocation: 'https://github.com/CRE8RDAO/amplifi-docs/tree/master/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
     manifest: {
-      name: 'Gatsby Gitbook Starter',
-      short_name: 'GitbookStarter',
+      name: 'AmpliFi Docs',
+      short_name: 'AmpliFi Docs',
       start_url: '/',
       background_color: '#6b37bf',
       theme_color: '#6b37bf',
