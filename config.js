@@ -9,7 +9,7 @@ const config = {
     logo: 'https://amplifi.cre8r.vip/static/media/AmpliFi.e9119d62.svg',
     logoLink: 'https://amplifi.cre8r.vip/',
     title:
-      "<a href='https://amplifi.cre8r.vip/'><img class='img-responsive' src='' alt='Learn logo' /></a>",
+      "Docs",
     githubUrl: 'https://github.com/CRE8RDAO/sybil-interface',
     helpUrl: '',
     tweetText: '',
@@ -38,11 +38,15 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/codeblock',
+      '/introduction',
+      'campaigntypes',   // add trailing slash if enabled above
+      '/pricing',
+      '/dev'
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
+      '/pricing',
+      'campaigntypes',
+      '/dev' // add trailing slash if enabled above
     ],
     links: [{ text: 'AmpliFi', link: 'https://cre8r.vip' }],
     frontLine: false,

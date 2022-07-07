@@ -1,5 +1,5 @@
 ---
-title: "AmpliFi"
+title: "AmpliFi Introduction"
 metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
@@ -7,16 +7,16 @@ metaDescription: "This is the meta description"
 Some introduction text. Lists out all the headings from h1 to h6. Markdown link handling for relative and absolute URLs. Easy to customise.
 
 # Heading H1
-AmpliFi Affiliatte marketing for Web3
+AmpliFi Affiliate marketing for Any Onchain Metric.
 
 ## Heading H2
 Any onchain KPI
 
 ### Heading H3
-Heading 3 text
+Liquidity Mining programs get better results with AmpliFi
 
 #### Heading H4
-Heading 4 text
+Airdrops get more adoption with AmpliFi
 
 ##### Heading H5
 Heading 5 text
