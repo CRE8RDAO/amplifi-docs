@@ -134,7 +134,7 @@ export const baseStyles = css`
 
   .navbar-default .navbar-toggle:focus,
   .navbar-default .navbar-toggle:hover {
-    background-color: #001933;
+    background-color: #c0c0c0;
   }
 
   .headerWrapper {
@@ -239,7 +239,7 @@ export const baseStyles = css`
     opacity: 0.8;
   }
   .logoWrapper {
-    padding: 21px 0;
+    padding: 21px 21px;
     padding-left: 20px;
   }
 
@@ -250,6 +250,7 @@ export const baseStyles = css`
     line-height: 1.5;
     font-weight: 500;
     padding-right: 10px;
+    padding: 10px;
   }
 
   /* Header section starts here */
@@ -257,7 +258,7 @@ export const baseStyles = css`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #001934;
+    background-color: #c13f00;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -289,6 +290,7 @@ export const baseStyles = css`
     width: 120px;
     margin-right: 6px;
     display: inline-block;
+    padding: 10px;
   }
   .navBarUL li {
     list-style-type: none;
@@ -374,7 +376,7 @@ export const baseStyles = css`
     font-family: 'Poppins';
     font-size: 18px;
     font-weight: 600;
-    color: #001934;
+    color: #c1c1bf;
     display: flex;
     align-items: center;
   }
@@ -398,7 +400,7 @@ export const baseStyles = css`
   .headerNav {
     font-family: 'Roboto';
     padding: 0px 24px;
-    color: #001933;
+    color: #009933;
     font-size: 16px;
     font-weight: 500;
     line-height: 1em;
@@ -415,6 +417,7 @@ export const baseStyles = css`
 
   .logoWrapper img {
     width: 40px;
+    padding: 10px;
   }
 
   .sideBarUL {
@@ -470,7 +473,7 @@ export const baseStyles = css`
   }
 
   .sideBarUL .item > a {
-    color: #1ED3C6;
+    color: #ffff80;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -740,7 +743,7 @@ export const baseStyles = css`
       display: block !important;
     }
     .searchInput {
-      color: #001934;
+      color: #009934;
     }
     .socialWrapper {
       position: absolute;
@@ -762,6 +765,7 @@ export const baseStyles = css`
     }
     .navBarBrand img {
       margin-right: 8px;
+      padding: 10px;!important
     }
     .topnav.responsive .visibleMobile {
       display: block;
@@ -825,7 +829,7 @@ export const baseStyles = css`
     }
 
     .navBarBrand {
-      font-size: 20px;
+      font-size: 60px;
       padding: 0 0;
       padding-left: 0;
       flex: initial;
