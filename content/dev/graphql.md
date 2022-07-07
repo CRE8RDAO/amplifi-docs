@@ -9,7 +9,9 @@ metaDescription: "This is the meta description for this page"
 
 
 
-My favorite search engine is [GraphQL](https://cre8r.vip/graphql).
+Test your graphql queries here [GraphQL](https://cre8r.vip/wp-admin/admin.php?page=graphiql-ide).
+
+You will need to be logged in.
 
 
 
