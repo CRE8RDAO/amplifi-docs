@@ -1,21 +1,8 @@
 ---
-title: "Earn with AmpliFi"
+title: "test44"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
-
-// insert video in markdown
-https://www.youtube.com/watch?v=UmX4kyB2wfg
-
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/UmX4kyB2wfg"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
 
 AmpliFi is being built for DAOs, protocols, Web3 projects who want to create incentives around their KPIs.
 
@@ -33,5 +20,3 @@ CRE8R DAO / AmpliFi team will work with you to hash out the details of an AmpliF
 -Creating lists potential referrers/affiliates - & whitelisting them within AmpliFi to ensure a) Quality b) Targeting
 -Onboarding Referrers from within AmpliFi/CRE8R DAO networks
 -Creating docs, content marketing campaigns for both AmpliFi Campaign + whatever the AmpliFi campaign is about
-
-
