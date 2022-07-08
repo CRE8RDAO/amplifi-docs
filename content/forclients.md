@@ -1,37 +1,22 @@
 ---
-title: "AmpliFi Introduction"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+title: "For Clients / Potential Clients"
+metaTitle: "Syntax Highlighting is the meta title tag for this page"
+metaDescription: "This is the meta description for this page"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Markdown link handling for relative and absolute URLs. Easy to customise.
+AmpliFi is being built for DAOs, protocols, Web3 projects who want to create incentives around their KPIs.
 
-# Heading H1
-AmpliFi Affiliate marketing for Any Onchain Metric.
+The essential ingredients to be able to get started using AmpliFi are as follows
 
-## Heading H2
-Any onchain KPI
+-Have an onchain/offchain action you want to happen. If you are planning an airdrop of any kind AmpliFi is the perfect compliment to ensure you hit your adoption metric in a capital efficient manner.
+-Have a token or a clear plan for a token that will serve as a reward for referers on the condition & proportionally according to the above action being taken by referees.
 
-### Heading H3
-Liquidity Mining programs get better results with AmpliFi
 
-#### Heading H4
-Airdrops get more adoption with AmpliFi
+CRE8R DAO / AmpliFi team will work with you to hash out the details of an AmpliFi campaign such as
 
-##### Heading H5
-Heading 5 text
-
-###### Heading H6
-Heading 6 text
-
-## Lists
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
-## Links
-
-* Relative: [Codeblock](/codeblock)
-* Absolute: [Demo](https://learn.hasura.io/graphql/react)
+-Designing win/win (for referrers/users/your protocol) incentives
+-Calculating ROI, Adoption, LTV etc
+-Tracking KPIs (onchain/offchain) & reporting on your custom metrics / payout mechanisms etc
+-Creating lists potential referrers/affiliates - & whitelisting them within AmpliFi to ensure a) Quality b) Targeting
+-Onboarding Referrers from within AmpliFi/CRE8R DAO networks
+-Creating docs, content marketing campaigns for both AmpliFi Campaign + whatever the AmpliFi campaign is about
