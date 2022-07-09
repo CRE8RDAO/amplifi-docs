@@ -54,7 +54,7 @@ const config = {
     frontLine: false,
     ignoreIndex: true,
     title:
-      "<a href='https://amplifi.cre8r.vip/'>AmpliFi </a><div class='greenCircle'></div><a href='https://amplifi.cre8r.vip/'>react</a>",
+      "Docs Menu",
   },
   siteMetadata: {
     title: 'AmpliFi Docs | Incentivised KPI based DeFi Referral System',
