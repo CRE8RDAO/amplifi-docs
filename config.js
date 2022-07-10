@@ -1,3 +1,5 @@
+console.log(process.env) // remove this after you've confirmed it working
+
 const config = {
   gatsby: {
     pathPrefix: '/',
@@ -28,13 +30,25 @@ const config = {
 		    </a>
 		  </li>`,
     links: [{ text: '', link: '' }],
-    search: {
-      enabled: true,
-      indexName: '',
-      algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
-      algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
-      algoliaAdminKey: process.env.ALGOLIA_ADMIN_KEY,
-    },
+
+    search: (() => {
+      console.log({
+
+        enabled: true,
+        indexName: 'MY_INDEX_NAME',
+        algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
+        algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
+        algoliaAdminKey: process.env.GATSBY_ALGOLIA_ADMIN_KEY,
+      })
+    return  {
+
+        enabled: true,
+        indexName: 'MY_INDEX_NAME',
+        algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
+        algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
+        algoliaAdminKey: process.env.GATSBY_ALGOLIA_ADMIN_KEY,
+      }
+    })()
   },
   sidebar: {
     forcedNavOrder: [
