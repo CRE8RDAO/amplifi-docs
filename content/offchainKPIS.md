@@ -1,12 +1,12 @@
 ---
-title: "test22"
+title: "Off Chain KPIs"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
 
-AmpliFi is being built for DAOs, protocols, Web3 projects who want to create incentives around their KPIs.
+## AmpliFi is being built for DAOs, protocols, Web3 projects who want to create incentives around their KPIs.
 
-The essential ingredients to be able to get started using AmpliFi are as follows
+### The essential ingredients to be able to get started using AmpliFi are as follows
 
 -Have an onchain/offchain action you want to happen. If you are planning an airdrop of any kind AmpliFi is the perfect compliment to ensure you hit your adoption metric in a capital efficient manner.
 -Have a token or a clear plan for a token that will serve as a reward for referers on the condition & proportionally according to the above action being taken by referees.

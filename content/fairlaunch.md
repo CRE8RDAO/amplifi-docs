@@ -4,19 +4,41 @@ metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
 
-AmpliFi is being built for DAOs, protocols, Web3 projects who want to create incentives around their KPIs.
+# Ownership & Governance of AmpliFi will become progressivly decentralised with each campaign.
 
-The essential ingredients to be able to get started using AmpliFi are as follows
+At least 34% of total AmpliFi tokens will be distributed to Affiliates/Referrers (publishers, newsletter writers, group owners, social media accounts, etc).
 
--Have an onchain/offchain action you want to happen. If you are planning an airdrop of any kind AmpliFi is the perfect compliment to ensure you hit your adoption metric in a capital efficient manner.
--Have a token or a clear plan for a token that will serve as a reward for referers on the condition & proportionally according to the above action being taken by referees.
+## Targeted Conditional Airdrop: The most efficient way to distribute ownership proportionally based on concrete results
+
+This has rarely (Looks Rare implemented several conditions in their Airdrop) been done before but once you get it we hope you will agree it's a useful mechanism & actually very intuitive.
+
+AmpliFi team creates lists from various sources such as:
+
+- Github
+- Onchain
+- Twitter
+- Snapshot
+- Publications & Newsletters list
+
+We process relevent metrics for each list and assign a number of tokens member each list. These tokens are then earned alongside earnings for each AmpliFi campaign.
+Over and above to proportional share of earnings - which is itself based on the unique campaign KPI.
+
+In this way we are able to target the groups that we think will add the most value to AmpliFi & our client campaigns with a compelling conditional airdrop.
+As long as they take part in campaigns they earn a multiple of their campaign earnings until their entire allocation is earned.
 
 
-CRE8R DAO / AmpliFi team will work with you to hash out the details of an AmpliFi campaign such as
 
--Designing win/win (for referrers/users/your protocol) incentives
--Calculating ROI, Adoption, LTV etc
--Tracking KPIs (onchain/offchain) & reporting on your custom metrics / payout mechanisms etc
--Creating lists potential referrers/affiliates - & whitelisting them within AmpliFi to ensure a) Quality b) Targeting
--Onboarding Referrers from within AmpliFi/CRE8R DAO networks
--Creating docs, content marketing campaigns for both AmpliFi Campaign + whatever the AmpliFi campaign is about
+## Tokenomics Overview
+
+
+| Area                                                                                          | Percent | Number of tokens |
+|-----------------------------------------------------------------------------------------------|---------|------------------|
+| AmpliFi Incentives (Conditional Airdrop + Campaign Boosts)                                    | 34.00%  | 750,000,000      |
+| Product Team (Founding Team)                                                                  | 15.00%  | 450,000,000      |
+| CRE8R DAO (Held in CRE8R treasury as ownership of AmpliFi as veNFT)                           | 25.00%  | 750,000,000      |
+| CRE8R Holders - Distributed as 50% liquid / 50% veNFT                                         | 7.00%   | 210,000,000      |
+| AmpliFi Treasury (Liquidity Mining - Contributer Program - ETC) Stewarded by AmpliFi Multisig | 9.00%  | 540,000,000      |
+| Seed Round / LGE - Liquid?                                                                    | 10.00%  | 300,000,000      |
+
+## Phases
+
