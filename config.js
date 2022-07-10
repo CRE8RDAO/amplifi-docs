@@ -56,7 +56,8 @@ const config = {
       '/fairlaunch',
       'campaigntypes',   // add trailing slash if enabled above
       '/pricing',
-      '/dev'
+      '/dev',
+      '/foraffiliates',
     ],
     collapsedNav: [
       '/pricing',
