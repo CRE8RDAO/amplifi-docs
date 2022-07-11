@@ -1,7 +1,7 @@
 ---
 title: "Putting the data together"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "AmpliFi Dev - Pulling the data together"
+metaDescription: "Overview of AmpliFi Data sources/system"
 ---
 
 ## Sybil list
@@ -9,15 +9,11 @@ metaDescription: "This is the meta description for this page"
 A list of all users that verified on AmpliFi via signiture in tweet flow.
 This is done with Sybil-Verifier codebase
 
-['LINK'](https://github.com/CRE8RDAO/sybil-verifier-worker)
-
-
-
 
 Here is the list:
 
 // mdx link
-['LINK'](https://github.com/CRE8RDAO/sybil-list/blob/master/verified.json)
+['Affiliates List'](https://github.com/CRE8RDAO/sybil-list/blob/master/verified.json)
 
 
 
@@ -30,7 +26,7 @@ And made available via wpgraphql
 
 // add query to get form data filtered by UTM campaign Or UTM Term
 
-
+['Our WPGraphql Data'](https://cre8r.vip/graphql)
 
 * Absolute: [WP GraphQL Gravity Forms Plugin Docs:](https://github.com/harness-software/wp-graphql-gravity-forms)
 
@@ -54,6 +50,8 @@ And made available via wpgraphql
             }
           }
         }
+
+// add query for our main list (AmpliFi All Campaigns Form)
 
 
 ## Onchain Metrics
