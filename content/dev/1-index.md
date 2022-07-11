@@ -55,3 +55,23 @@ And made available via wpgraphql
           }
         }
 
+
+## Onchain Metrics
+
+Now that we have the list of referres addresses (who clicked on referrer tracking links).
+
+We can go onchain to get the final piece of the puzzle! The onchain data about our KPI metrics for a particular campaign.
+
+### DeFi Lama Codebase & Filtering Queries
+
+Lets take a practical example:
+
+Fuji DAO
+
+* Absolute: [DeFi Lama Adapter For Fuji:](https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/fujidao/index.js)
+
+
+
+
+
+
