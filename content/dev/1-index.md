@@ -1,26 +1,57 @@
 ---
-title: "Sub Page Dev"
+title: "Putting the data together"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+## Sybil list
 
-```html
-[Add amplifi.js script in head tag](https://www.jsdelivr.com/package/npm/amplifi.js)
-```
+A list of all users that verified on AmpliFi via signiture in tweet flow.
+This is done with Sybil-Verifier codebase
 
-Supports multiple languages.
+['LINK'](https://github.com/CRE8RDAO/sybil-verifier-worker)
 
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
 
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
 
-## Live Editing example
 
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+Here is the list:
+
+// mdx link
+['LINK'](https://github.com/CRE8RDAO/sybil-list/blob/master/verified.json)
+
+
+
+
+## Referree list
+
+This list is submitted to a gravity form via amplifi.js
+
+And made available via wpgraphql
+
+// add query to get form data filtered by UTM campaign Or UTM Term
+
+
+
+* Absolute: [WP GraphQL Gravity Forms Plugin Docs:](https://github.com/harness-software/wp-graphql-gravity-forms)
+
+
+ # Query Referee list:
+          gfSubmittedEntry(id: 2977, idType: DATABASE_ID ){
+            databaseId
+            id # global ID
+            formDatabaseId
+            isDraft
+            isStarred
+            formFields(first: 300) {
+              nodes {
+                id
+                type
+                ... on TextField {
+                  label
+                  value # The field value
+                }
+              }
+            }
+          }
+        }
+
