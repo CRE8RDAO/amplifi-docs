@@ -53,17 +53,17 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/introduction',
-      '/fairlaunch',
-      'campaigntypes',   // add trailing slash if enabled above
-      '/pricing',
+      '/roadmap',
+      '/forclients',
       '/dev',
       '/foraffiliates',
     ],
     collapsedNav: [
-      '/pricing',
-      'campaigntypes',
+      '/introduction',
+      '/forclients',
       '/dev',
-      '/fairlaunch' // add trailing slash if enabled above
+      '/foraffiliates',
+
     ],
     links: [{ text: 'AmpliFi', link: 'https://cre8r.vip' }],
     frontLine: false,
