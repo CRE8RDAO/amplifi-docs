@@ -154,7 +154,7 @@ export const baseStyles = css`
     border: none;
   }
   .formElement svg path {
-    fill: #2fd2c5;
+    fill: grey;
   }
   .searchInput {
     width: 100%;
@@ -258,7 +258,7 @@ export const baseStyles = css`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #c13f00;
+    background-color: #221F21;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -371,7 +371,7 @@ export const baseStyles = css`
   /* Header section ends here */
   .sidebarTitle {
     /* box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16); */
-    background-color: #f8f8f8;
+    background-color: #3a3434;
     padding: 18px 16px;
     font-family: 'Poppins';
     font-size: 18px;
@@ -453,8 +453,8 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #000000;
-    color: #fff !important;
+    background-color: #001933;
+    color: #acacac !important;
   }
   .firstLevel ul li .collapser svg path {
     fill: #c0c0c0 !important;
@@ -484,12 +484,12 @@ export const baseStyles = css`
   }
 
   .showFrontLine .item > a:hover {
-    background-color: #001933;
+    background-color: #0b0b0b;
   }
 
   .showFrontLine .active > a {
     /* color: #fff; */
-    background-color: #001933;
+    background-color: #0b0b0b;
   }
 
   .sideBarUL .item .item {
@@ -511,7 +511,7 @@ export const baseStyles = css`
     border-color: rgb(230, 236, 241) !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    background-color: #000000 !important;
+    background-color: #001933 !important;
     color: #fff;
   }
 

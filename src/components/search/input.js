@@ -11,16 +11,20 @@ const SearchIcon = styled(Search)`
   margin-right: 10px;
   position: absolute;
   left: 15px;
-  color: #2fd2c5;
+  color: #3a3a3a;
+  fill: #3a3a3a!important;
+
 `;
+
+
 
 const focus = (props) => css`
   background: white;
-  color: ${(props) => props.theme.darkBlue};
+  color: #3a3a3a;
   cursor: text;
   width: 5em;
   + ${SearchIcon} {
-    color: ${(props) => props.theme.darkBlue};
+    color: #3a3a3a;
     margin: 0.3em;
   }
 `;
@@ -30,18 +34,18 @@ const collapse = (props) => css`
   cursor: pointer;
   color: ${(props) => props.theme.lightBlue};
   + ${SearchIcon} {
-    color: white;
+    color: #3a3a3a;
   }
   ${(props) => props.focus && focus()}
   margin-left: ${(props) => (props.focus ? `-1.6em` : `-1em`)};
   padding-left: ${(props) => (props.focus ? `1.6em` : `1em`)};
   ::placeholder {
-    color: ${(props) => props.theme.gray};
+    color: #3a3a3a;
   }
 `;
 
 const expand = (props) => css`
-  background: ${(props) => props.theme.veryLightGray};
+  background: #3a3a3a;
   width: 6em;
   margin-left: -1.6em;
   padding-left: 1.6em;
@@ -78,9 +82,13 @@ export default connectSearchBox(({ refine, ...rest }) => {
     e.preventDefault();
   };
 
+
+
+
+
   return (
     <Form className={'formElement'} onSubmit={preventSubmit}>
-      <SearchIcon />
+      <SearchIcon  />
       <Input
         className={'searchInput '}
         type="text"

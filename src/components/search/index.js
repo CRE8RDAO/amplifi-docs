@@ -20,6 +20,7 @@ import * as hitComps from './hitComps';
 const SearchIcon = styled(Search)`
   width: 1em;
   pointer-events: none;
+  color: black;
 `;
 
 const HitsWrapper = styled.div`
@@ -57,14 +58,15 @@ const HitsWrapper = styled.div`
   * {
     margin-top: 0;
     padding: 0;
-    color: black !important;
+    color: #00 !important;
   }
   ul {
     list-style: none;
   }
   mark {
-    color: ${props => props.theme.lightBlue};
-    background: ${props => props.theme.darkBlue};
+    color: black;
+    background: #27d92d3d;
+
   }
   header {
     display: flex;

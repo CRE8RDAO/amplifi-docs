@@ -68,7 +68,7 @@ const config = {
     frontLine: false,
     ignoreIndex: true,
     title:
-      "Docs Menu",
+      "",
   },
   siteMetadata: {
     title: 'AmpliFi Docs | Incentivised KPI based DeFi Referral System',
