@@ -53,7 +53,6 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/introduction',
-      '/roadmap',
       '/forclients',
       '/dev',
       '/foraffiliates',

@@ -457,7 +457,7 @@ export const baseStyles = css`
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
-    fill: #fff !important;
+    fill: #c0c0c0 !important;
   }
   .active .collapser > svg > path {
     fill: #001933 !important;

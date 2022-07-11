@@ -18,8 +18,8 @@ const Wrapper = styled('div')`
   }
 
   .sideBarUL .item > a:hover {
-    background-color: #1ed3c6;
-    color: #fff !important;
+    background-color: 000000#;
+     color: #c0c0c0 !important;
 
     /* background: #F8F8F8 */
   }
