@@ -1,26 +1,9 @@
 ---
-title: "Sub Page pricing"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+title: "Implementation Options"
+metaTitle: "Along with amplifi.js we have several Implementation Options"
+metaDescription: "Wrapper contracts, custom integrations, and more"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
-
-```javascript
-import React from 'react';
-```
-
-Supports multiple languages.
-
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
-
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
-
-## Live Editing example
-
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+## Implementation Options
+Along with amplifi.js we have several Implementation Options
+Wrapper contracts, custom integrations, and more
