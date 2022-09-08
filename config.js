@@ -3,15 +3,14 @@ console.log(process.env) // remove this after you've confirmed it working
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://ampliFi-docs.cre8r.vip',
+    siteUrl: 'https://docs.amplifi.gg',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
-    logo: 'https://amplifi.cre8r.vip/static/media/AmpliFi.e9119d62.svg',
-    logoLink: 'https://amplifi.cre8r.vip/',
-    title:
-      "Docs",
+    logo: 'https://docs.amplifi.gg/static/media/AmpliFi.e9119d62.svg',
+    logoLink: 'https://docs.amplifi.gg',
+    title: 'Docs',
     githubUrl: 'https://github.com/CRE8RDAO/sybil-interface',
     helpUrl: '',
     tweetText: '',
@@ -33,42 +32,28 @@ const config = {
 
     search: (() => {
       console.log({
-
         enabled: true,
         indexName: 'MY_INDEX_NAME',
         algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
         algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
         algoliaAdminKey: process.env.GATSBY_ALGOLIA_ADMIN_KEY,
       })
-    return  {
-
+      return {
         enabled: true,
         indexName: 'MY_INDEX_NAME',
         algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
         algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
         algoliaAdminKey: process.env.GATSBY_ALGOLIA_ADMIN_KEY,
       }
-    })()
+    })(),
   },
   sidebar: {
-    forcedNavOrder: [
-      '/introduction',
-      '/forclients',
-      '/dev',
-      '/foraffiliates',
-    ],
-    collapsedNav: [
-      '/introduction',
-      '/forclients',
-      '/dev',
-      '/foraffiliates',
-
-    ],
+    forcedNavOrder: ['/introduction', '/forclients', '/dev', '/foraffiliates'],
+    collapsedNav: ['/introduction', '/forclients', '/dev', '/foraffiliates'],
     links: [{ text: 'AmpliFi', link: 'https://cre8r.vip' }],
     frontLine: false,
     ignoreIndex: true,
-    title:
-      "",
+    title: '',
   },
   siteMetadata: {
     title: 'AmpliFi Docs | Incentivised KPI based DeFi Referral System',
@@ -96,6 +81,6 @@ const config = {
       ],
     },
   },
-};
+}
 
-module.exports = config;
+module.exports = config
