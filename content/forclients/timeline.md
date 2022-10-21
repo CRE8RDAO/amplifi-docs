@@ -1,5 +1,5 @@
 ---
-title: "Timeline"
+title: "Timeline: Steps to getting an AmpliFi campaign setup"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---

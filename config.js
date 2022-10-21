@@ -48,8 +48,16 @@ const config = {
     })(),
   },
   sidebar: {
-    forcedNavOrder: ['/introduction', '/forclients', '/dev', '/foraffiliates'],
-    collapsedNav: ['/introduction', '/forclients', '/dev', '/foraffiliates'],
+    forcedNavOrder: [
+      '/introduction',
+      '/sdk',
+      '/forclients',
+      '/dev',
+      '/foraffiliates',
+      '/protocol',
+      '/style-guide',
+    ],
+    collapsedNav: ['/introduction', '/sdk', '/forclients', '/dev', '/foraffiliates', '/protocol'],
     links: [{ text: 'AmpliFi', link: 'https://cre8r.vip' }],
     frontLine: false,
     ignoreIndex: true,

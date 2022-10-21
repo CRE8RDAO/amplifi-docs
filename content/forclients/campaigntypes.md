@@ -1,5 +1,5 @@
 ---
-title: "How to set commission rates"
+title: "Campaign types"
 metaTitle: "How to set commission rates"
 metaDescription: "How to set commission rates"
 ---

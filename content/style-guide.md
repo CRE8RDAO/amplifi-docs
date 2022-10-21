@@ -1,15 +1,8 @@
 ---
-title: "Contributer Aquisition Programs"
+title: "Style Guide"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
-
-AmpliFi can be used for to create custom Contributer Aquisition Program.
-Your project needs awesome contributers and our network of referrers can send applicants to your custom form created with CRE8R CMS or to your job board where amplifi.js script is installed.
-
-Referrers are paid according to terms you set. We will work with you to create and implement the whole system.
-
-
 
 AmpliFi is being built for DAOs, protocols, Web3 projects who want to create incentives around their KPIs.
 
