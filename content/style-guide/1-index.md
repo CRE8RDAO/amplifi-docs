@@ -3,10 +3,6 @@ title: "For Clients / Potential Clients"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
-![Alt text here](https://cre8r.vip/wp-content/uploads/2022/06/FINALwithbrick-2-1-150x150.png)
-
-
-
 
 AmpliFi is being built for DAOs, protocols, Web3 projects who want to create incentives around their KPIs.
 

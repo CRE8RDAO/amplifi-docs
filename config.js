@@ -8,7 +8,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://docs.amplifi.gg/static/media/AmpliFi.e9119d62.svg',
+    logo: 'https://amplifi.gg/wp-content/uploads/icon-orange-circle.png',
     logoLink: 'https://docs.amplifi.gg',
     title: 'Docs',
     githubUrl: 'https://github.com/CRE8RDAO/sybil-interface',

@@ -1,12 +1,8 @@
 ---
-title: "For Clients / Potential Clients"
+title: "Timeline"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
-![Alt text here](https://cre8r.vip/wp-content/uploads/2022/06/FINALwithbrick-2-1-150x150.png)
-
-
-
 
 AmpliFi is being built for DAOs, protocols, Web3 projects who want to create incentives around their KPIs.
 
@@ -24,5 +20,3 @@ CRE8R DAO / AmpliFi team will work with you to hash out the details of an AmpliF
 -Creating lists potential referrers/affiliates - & whitelisting them within AmpliFi to ensure a) Quality b) Targeting
 -Onboarding Referrers from within AmpliFi/CRE8R DAO networks
 -Creating docs, content marketing campaigns for both AmpliFi Campaign + whatever the AmpliFi campaign is about
-
-

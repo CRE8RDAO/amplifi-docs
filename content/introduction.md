@@ -1,10 +1,16 @@
 ---
 title: "AmpliFi Introduction"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+metaTitle: "What is AmpliFi?"
+metaDescription: "A quick introduction to AmpliFi"
 ---
+![Alt text here](./../src/components/images/logo.png)
+AmpliFi is a platform for discovering & participating in viral marketing campaigns for web3 products.
 
-Some introduction text. Lists out all the headings from h1 to h6. Markdown link handling for relative and absolute URLs. Easy to customise.
+AmpliFi DAO is the group of people who are building the platform, setting up programs, and participating in viral marketing campaigns.
+
+link: https://amplifi.gg [^]
+
+link: https://amplifi.gg/dao [^]
 
 # AmpliFi Affiliate marketing for Any Onchain Metric.
 
